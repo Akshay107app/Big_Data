@@ -1,6 +1,6 @@
 ### DataBase
 
-![image]([https://github.com/user-attachments/assets/8cab2a85-f2a4-4009-b65f-f5e3779c0437](https://ik.imagekit.io/olibr/blogimages/Types-of-Databases_1.jpg))
+![image](https://ik.imagekit.io/olibr/blogimages/Types-of-Databases_1.jpg)
 
 
 # Overview of Databases
